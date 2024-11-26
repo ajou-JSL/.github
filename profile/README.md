@@ -4,11 +4,11 @@
 
 <div align="center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 프로젝트 소개 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 예시 템플릿 </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> ㅁㅇㄴㄻㄴㅇㄹㄴㅇㄹㄴㅇㅁㄹㄴㅁㅇㄹㄴㅇㅁㄹㄴㅁㅇㅎㅇㅁㄶㅇㅁㄶㄻㅇㄴㄹㅇㄴㅁㄹㅇㄴㄹㄴㅁㄴㅇㅁㄴㅁㅇㄻㄴㄹㄴㅇㄹㅇㄴㄹㅇㄴㄹㅇㄴㄹㅇㄴㄹㄴㅇㄹㅇㄴㄹㅇㄴㅁㄻㅇㄴㄹㅇㄴㄻㄴㄹㅇㄴㄹㄴㅇㄹㅇㄴㄹㅇㄴㄹㄴㅇㄻㅇㄴㄹㅇㄴㅁㄻㄴㅇㄹㅇㄴㅁㄻㄴㅇㄹㅇㄴㄹㄴㄹㄴㅇㄹㄴㅇㄹㄴㅇㅁㄻㅇㄴㄹㅇㄴㄹㅇㄴㅇㄴㄴㅇㅁㄹㅇㄴㅁㅇㄴㅇㄴㄹㅇㄴㅁㅇㄴㅇㄴㅁㄴ </div> 
 </div>
 
 <div align="center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks & Tools </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align="center"> 
         <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white">
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
@@ -34,13 +34,13 @@
                 <tr>
                     <th style="text-align:left">Team</th>
                     <th style="text-align:left">Name</th>
-                    <th style="text-align:left">E-Mail</th>
                     <th style="text-align:left">Position</th>
+                    <th style="text-align:left">E-Mail</th>
                 </tr>
             </thead>
             <tbody>
                 <tr>
-                    <td style="text-align:left">Leader</td>
+                    <td style="text-align:left"> Leader</td>
                     <td style="text-align:left">소성하</td>
                     <td style="text-align:left">Frontend Developer</td>
                     <td style="text-align:left">sososongha3@ajou.ac.kr</td>
