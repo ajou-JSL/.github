@@ -3,12 +3,18 @@
 </div>
 
 <div align="center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 프로젝트 소개 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> ㅁㅇㄴㄻㄴㅇㄹㄴㅇㄹㄴㅇㅁㄹㄴㅁㅇㄹㄴㅇㅁㄹㄴㅁㅇㅎㅇㅁㄶㅇㅁㄶㄻㅇㄴㄹㅇㄴㅁㄹㅇㄴㄹㄴㅁㄴㅇㅁㄴㅁㅇㄻㄴㄹㄴㅇㄹㅇㄴㄹㅇㄴㄹㅇㄴㄹㅇㄴㄹㄴㅇㄹㅇㄴㄹㅇㄴㅁㄻㅇㄴㄹㅇㄴㄻㄴㄹㅇㄴㄹㄴㅇㄹㅇㄴㄹㅇㄴㄹㄴㅇㄻㅇㄴㄹㅇㄴㅁㄻㄴㅇㄹㅇㄴㅁㄻㄴㅇㄹㅇㄴㄹㄴㄹㄴㅇㄹㄴㅇㄹㄴㅇㅁㄻㅇㄴㄹㅇㄴㄹㅇㄴㅇㄴㄴㅇㅁㄹㅇㄴㅁㅇㄴㅇㄴㄹㅇㄴㅁㅇㄴㅇㄴㅁㄴ </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🎶 프로젝트 소개 </h2>  
+    <h3 style="font-weight: 700; font-size: 20px; color: #282d33;">음악인들을 잇는 커뮤니티 플랫폼, <span style="color: #5c85d6;">'MOUM:모音'</span></h3>
+    <div style="font-weight: 400; font-size: 15px; text-align: center; color: #282d33; line-height: 1.8; max-width: 600px;">
+        음악인과 음악 단체를 이어주는 커뮤니티 플랫폼, 밴드 리쿠르팅부터 공연 관리까지 한 번에!<br><br>
+        밴드 리쿠르팅, 음악인들과의 소통 및 공연 관리까지 한 번에 해결 가능한 커뮤니티 기반의 올인원 솔루션 프로젝트입니다.<br><br>
+        리쿠르팅 및 소통을 위한 커뮤니티, Webflux와 SSE 방식 기반의 채팅 시스템, 효율적인 컨텐츠 쿼리를 위한 데이터베이스 튜닝,<br>
+        7가지의 단계로 구성된 공연 라이프사이클에 맞춘 관리 기능, 제휴 서비스 등록이 가능한 관리자 기능까지 제공하는 안드로이드 어플리케이션입니다.
+    </div> 
 </div>
 
 <div align="center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks & Tools </h2> <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📖 스택 및 도구 </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align="center"> 
         <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white">
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
@@ -22,7 +28,14 @@
         <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat&logo=Amazon S3&logoColor=white">
         <br/><img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white">
         <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
-        <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white">
+        <img src="https://img.shields.io/badge/Figma-800080?style=flat&logo=Figma&logoColor=white"><br>
+        github release, rxjajva3, androidx, jetpack, spring security, JPA, Thymeleaf, HTML, CSS WebFlux, SSE, Glide, NCP, Object Storage, QueryDSL, Redis, Nginx, Github Action, Zxing, Naver Maps API, Naver Mail SMTP, Youtube Link Embedding 
+    </div>
+</div>
+
+<div align="center">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💻 주요 기술 </h2> <br> 
+    <div style="margin: 0 auto; text-align: center;" align="center"> 
     </div>
 </div>
 
