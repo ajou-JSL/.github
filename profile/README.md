@@ -40,6 +40,18 @@
 </div>
 
 <div align="center">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 주요 기능들? </h2> <br> 
+    <div style="margin: 0 auto; text-align: center;" align="center"> 
+    </div>
+</div>
+
+<div align="center">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 포스터 사진? </h2> <br> 
+    <div style="margin: 0 auto; text-align: center;" align="center"> 
+    </div>
+</div>
+
+<div align="center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📑 팀원 정보 </h2>
     <div style="margin: 0 auto; text-align: center;">
         <table align="center" style="margin: 0 auto;">
