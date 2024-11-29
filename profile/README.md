@@ -20,9 +20,6 @@
         <div>
             <img src="https://img.shields.io/badge/Android Jetpack-4285F4?style=flat&logo=Android&logoColor=white">
             <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white">
-        </div>
-        <!-- 웹 프론트엔드 관련 기술 -->
-        <div>
             <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white">
             <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white">
             <img src="https://img.shields.io/badge/Thymeleaf-000000?style=flat&logo=Thymeleaf&logoColor=white">
@@ -41,12 +38,6 @@
             <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white">
             <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white">
         </div>
-        <!-- 도구 및 서비스 관련 기술 -->
-        <div>
-            <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
-            <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
-            <img src="https://img.shields.io/badge/Github Action-2088FF?style=flat&logo=Github Actions&logoColor=white">
-        </div>
         <!-- 클라우드 및 기타 서비스 관련 기술 -->
         <div>
             <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
@@ -57,18 +48,22 @@
         </div>
         <!-- 협업 및 기타 도구 -->
         <div>
+            <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
+            <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
+            <img src="https://img.shields.io/badge/Github Action-2088FF?style=flat&logo=Github Actions&logoColor=white">
             <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white">
             <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
             <img src="https://img.shields.io/badge/Figma-800080?style=flat&logo=Figma&logoColor=white">
         </div>
+    </div>
         <!-- 추가 기능 및 기타 서비스 -->
-        <div>
+<!--         <div>
             <img src="https://img.shields.io/badge/Zxing-FFCA28?style=flat&logo=Zxing&logoColor=black">
             <img src="https://img.shields.io/badge/Naver Maps API-00C73C?style=flat&logo=Naver&logoColor=white">
             <img src="https://img.shields.io/badge/Naver Mail SMTP-003D26?style=flat&logo=Naver&logoColor=white">
             <img src="https://img.shields.io/badge/Youtube Link Embedding-FF0000?style=flat&logo=Youtube&logoColor=white">
         </div>
-    </div>
+    </div> -->
 </div>
 <div align="center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💻 주요 기술 </h2> <br> 
