@@ -1,6 +1,6 @@
 <!-- ------------------------ 배너 ------------------------ -->
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:dfa1da,100:a4dfdb&height=180&text=MOUM&animation=&fontColor=f0f0f0&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:dfa1da,100:a4dfdb&height=180&text=MOUM&animation=&fontColor=000000&fontSize=50" />
 </div>
 
 <!-- ------------------------ 프로젝트 소개 ------------------------ -->
