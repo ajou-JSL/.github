@@ -57,7 +57,7 @@
         </div>
         <h3> 🍀 Third Party </h3>
         <div>
-            <img src="https://img.shields.io/badge/Zxing-FFCA28?style=flat&logo=Zxing&logoColor=black">
+            <img src="https://img.shields.io/badge/Zebra Xning-FFCA28?style=flat&logo=Zxing&logoColor=white">
             <img src="https://img.shields.io/badge/Naver Maps API-00C73C?style=flat&logo=Naver&logoColor=white">
             <img src="https://img.shields.io/badge/Naver Mail SMTP-003D26?style=flat&logo=Naver&logoColor=white"><br>
             <img src="https://img.shields.io/badge/Youtube Link Embedding-FF0000?style=flat&logo=Youtube&logoColor=white">
