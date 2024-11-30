@@ -90,8 +90,8 @@
         <h3> ⚙️ API Gateway </h3>
         <img src="https://github.com/user-attachments/assets/629aea77-413a-40fe-947a-491033c46ff2" alt="아키텍처 " style="width:70%;">
         <br>
-        <p> Nginx의 Reverse Proxy Pass를 동적으로 구성하여 사용자와 관리자의 요청을 처리하는 API Gateway 역할을 수행합니다. </p><br>
-        <p> 각 모듈은 컨테이너화 되어있으며, 각 컨테이너끼리 통신할 수 있도록 Docker Compose로 두 모듈이 동일한 네트워크에 속하게 구성하였습니다. </p>
+        <p> Nginx의 Reverse Proxy Pass를 동적으로 구성하여 사용자와 관리자의 요청을 처리하는 API Gateway 역할을 수행합니다.
+        <br> 각 모듈은 컨테이너화 되어있으며, 각 컨테이너끼리 통신할 수 있도록 Docker Compose로 두 모듈이 동일한 네트워크에 속하게 구성하였습니다. </p>
         <br>
         <h3> ⚙️ No-Downtime 배포환경 </h3>
          <img src="https://github.com/user-attachments/assets/a99a133e-e7d4-49f8-99f4-f6834fb9d72d" alt="무중단배포 그림 " style="width:70%;">
