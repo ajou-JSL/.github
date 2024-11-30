@@ -1,7 +1,9 @@
+<!-- ------------------------ 배너 ------------------------ -->
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:dfa1da,100:a4dfdb&height=180&text=MOUM&animation=&fontColor=e0e0e0&fontSize=50" />
 </div>
 
+<!-- ------------------------ 프로젝트 소개 ------------------------ -->
 <div align="center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🎶 프로젝트 소개 </h2>  
     <h3 style="font-weight: 700; font-size: 20px; color: #282d33;">음악인들을 잇는 커뮤니티 플랫폼, <span style="color: #5c85d6;">'MOUM:모音'</span></h3>
@@ -15,6 +17,15 @@
     </div> 
 </div>
 <br>
+
+<!-- ------------------------ 주요 기능 ------------------------ -->
+<div align="center">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🌳 주요 기능 </h2> <br> 
+    <div style="margin: 0 auto; text-align: center;" align="center"> 
+    </div>
+</div>
+
+<!-- ------------------------ 스택 및 도구 ------------------------ -->
 <div align="center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🔨 스택 및 도구  </h2>  
     <div style="margin: 0 auto; text-align: center;" align="center"> 
@@ -65,20 +76,17 @@
     </div>
 </div>
 <br>
+
+<!-- ------------------------ 핵심 기술  ------------------------ -->
 <div align="center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ⭐ 주요 기술 </h2> <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ⭐ 핵심 기술 </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align="center"> 
     </div>
 </div>
 
 <br>
-<div align="center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🌳 주요 기능 </h2> <br> 
-    <div style="margin: 0 auto; text-align: center;" align="center"> 
-    </div>
-</div>
 
-<br>
+<!-- ------------------------ 작품 확인  ------------------------ -->
 <div align="center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👀 작품 확인 </h2> <br> 
     <div>첨부파일 하단 링크 접속하면 아주대학교 소프트콘에 등록된 상세 내용을 확인할 수 있습니다</div><br>
