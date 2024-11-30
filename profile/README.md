@@ -18,7 +18,7 @@
 <div align="center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🔨 스택 및 도구  </h2>  
     <div style="margin: 0 auto; text-align: center;" align="center"> 
-        <h3> 🍀 Andriod & Admin Page </h3>
+        <h4> 🍀 Andriod & Admin Page </h4>
         <div>
             <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white">
             <img src="https://img.shields.io/badge/Android Jetpack-4285F4?style=flat&logo=jetpackcompose&logoColor=white">
@@ -28,7 +28,7 @@
             <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white">
             <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white">   
         </div>
-        <h3> 🍀 WAS & DB </h3>
+        <h4> 🍀 WAS & DB </h4>
         <div>
             <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white">
             <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=Spring&logoColor=white">
@@ -38,7 +38,7 @@
             <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white">
             <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white">
         </div>
-        <h3> 🍀 Server & Cloud Tech </h3>
+        <h4> 🍀 Server & Cloud Tech </h4>
         <div>
             <img src="https://img.shields.io/badge/Naver Cloud Platform-1ec800?style=flat&logo=Naver&logoColor=white">
             <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
@@ -46,7 +46,7 @@
             <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat&logo=Amazon S3&logoColor=white">
             <img src="https://img.shields.io/badge/Object Storage-00C3E3?style=flat&logo=Amazon S3&logoColor=white">
         </div>
-        <h3> 🍀 Tools </h3>
+        <h4> 🍀 Tools </h4>
         <div>
             <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
             <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
@@ -55,7 +55,7 @@
             <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
             <img src="https://img.shields.io/badge/Figma-800080?style=flat&logo=Figma&logoColor=white">
         </div>
-        <h3> 🍀 Third Party </h3>
+        <h4> 🍀 Third Party </h4>
         <div>
             <img src="https://img.shields.io/badge/Zebra Xning-FFCA28?style=flat&logo=Zxing&logoColor=white">
             <img src="https://img.shields.io/badge/Naver Maps API-00C73C?style=flat&logo=Naver&logoColor=white">
