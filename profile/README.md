@@ -110,9 +110,7 @@
         <h3> ⚙️ Spring WebFlux & Server Sent Event </h3>
         <img src="https://github.com/user-attachments/assets/873a0abf-25f2-4a21-9b18-b9fc367387eb" alt="멀티모듈 그림" style="width:70%;">
         <br>
-
-        채팅 모듈과 애플리케이션 모듈을 분리하여 각 기능의 독립성을 보장하였습니다. <br>
-        <p> 각 모듈을 상호간의 간섭 및 충돌 없이 성능 최적화 및 유지 보수에 집중 가능하게 하였습니다. </p>
+           SSE<br>
     </div>
 </div>
 
