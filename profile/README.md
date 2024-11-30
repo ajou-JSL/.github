@@ -77,10 +77,40 @@
 </div>
 <br>
 
+<!-- ------------------------ 프로젝트 구조  ------------------------ -->
+<div align="center">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏛️ 프로젝트 구조 </h2> <br> 
+    <div style="margin: 0 auto; text-align: center;" align="center"> 
+        <h3> ⚙️ 멀티모듈 아키텍처 </h3>
+        <img src="https://github.com/user-attachments/assets/9711c87f-f315-4abf-b9ff-d4324a682bdf" alt="멀티모듈 그림" style="width:70%;">
+        <br> 
+        채팅 모듈과 애플리케이션 모듈을 분리하여 각 기능의 독립성을 보장하였습니다. <br>
+        <p> 각 모듈을 상호간의 간섭 및 충돌 없이 성능 최적화 및 유지 보수에 집중 가능하게 하였습니다. </p>
+        <br>
+        <h3> ⚙️ API Gateway </h3>
+        <img src="https://github.com/user-attachments/assets/629aea77-413a-40fe-947a-491033c46ff2" alt="아키텍처 " style="width:70%;">
+        <br>
+        <p> Nginx의 Reverse Proxy Pass를 동적으로 구성하여 사용자와 관리자의 요청을 처리하는 API Gateway 역할을 수행합니다. </p>
+        <br>
+        <h3> ⚙️ No-Downtime 배포환경 </h3>
+         <img src="https://github.com/user-attachments/assets/a99a133e-e7d4-49f8-99f4-f6834fb9d72d" alt="무중단배포 그림 " style="width:70%;">
+        <br>
+        <p> Github Action을 활용한 무중단 배포 환경 구축입니다. <br>Green/Blue 방식의 무중단 배포 시스템에서 Reverse Proxy로 설정한 Nginx가 적절히 라우팅하여<br> 트래픽이 새로운 서버로 전환되고 사용자에게 서비스를 중단 없이 지속적으로 제공할 수 있도록 구성하였습니다. </p>
+        위 그림에서 새로운 버전이 배포되면 개발자의 push 이벤트로 인해 Github Action Script가 ssh 서버의 배포 스크립트 실행,<br> Nginx에 의해 :8081 포트로 트래픽이 변경됩니다.
+        <br>
+    </div>
+</div>
+<br>
+
 <!-- ------------------------ 핵심 기술  ------------------------ -->
 <div align="center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ⭐ 핵심 기술 </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align="center"> 
+        <h3> ⚙️ 멀티모듈 아키텍처 </h3>
+        <img src="https://github.com/user-attachments/assets/9711c87f-f315-4abf-b9ff-d4324a682bdf" alt="멀티모듈 그림" style="width:70%;">
+        <br> 
+        채팅 모듈과 애플리케이션 모듈을 분리하여 각 기능의 독립성을 보장하였습니다. <br>
+        <p> 각 모듈을 상호간의 간섭 및 충돌 없이 성능 최적화 및 유지 보수에 집중 가능하게 하였습니다. </p>
     </div>
 </div>
 
