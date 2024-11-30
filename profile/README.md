@@ -106,9 +106,10 @@
 <div align="center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ⭐ 핵심 기술 </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align="center"> 
-        <h3> ⚙️ 멀티모듈 아키텍처 </h3>
-        <img src="https://github.com/user-attachments/assets/9711c87f-f315-4abf-b9ff-d4324a682bdf" alt="멀티모듈 그림" style="width:70%;">
-        <br> 
+        <h3> ⚙️ Spring WebFlux & Server Sent Event </h3>
+        <img src="https://github.com/user-attachments/assets/873a0abf-25f2-4a21-9b18-b9fc367387eb" alt="멀티모듈 그림" style="width:70%;">
+        <br>
+
         채팅 모듈과 애플리케이션 모듈을 분리하여 각 기능의 독립성을 보장하였습니다. <br>
         <p> 각 모듈을 상호간의 간섭 및 충돌 없이 성능 최적화 및 유지 보수에 집중 가능하게 하였습니다. </p>
     </div>
