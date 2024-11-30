@@ -71,13 +71,13 @@
 </div>
 
 <div align="center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 주요 기능들? </h2> <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🌳 주요 기능 </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align="center"> 
     </div>
 </div>
 
 <div align="center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">프로젝트 더 보기</h2> <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👀 작품 확인 </h2> <br> 
     <div>첨부파일 하단 링크 접속하면 아주대학교 소프트콘에 등록된 상세 내용을 확인할 수 있습니다</div><br>
     <div style="margin: 0 auto; text-align: center;" align="center"> 
         <img src="https://github.com/user-attachments/assets/ea3a4701-14f3-4b84-9b19-6159ac39926a" alt="SW캡스톤디자인_04_JSL_판넬_page-0001" />
@@ -87,7 +87,7 @@
 
 
 <div align="center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📑 팀원 정보 </h2>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 팀원 정보 </h2>
     <div style="margin: 0 auto; text-align: center;">
         <table align="center" style="margin: 0 auto;">
             <thead>
