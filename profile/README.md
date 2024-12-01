@@ -134,36 +134,41 @@
     <div style="margin: 0 auto; text-align: left;"> 
         <h3> ⚙️ Spring WebFlux & SSE 기반 채팅 시스템 </h3>
         <img src="https://github.com/user-attachments/assets/873a0abf-25f2-4a21-9b18-b9fc367387eb" alt="멀티모듈 그림" style="width:70%;">
-        <br>
-<pre><code>
-✔️ 비동기 및 반응형 처리
-WebFlux의 Non-Blocking 특성을 이용해 SSE 방식으로 실시간 채팅 메시지 응답을 Streaming하여 빠르게 안정적인 데이터 전송 구현
-
-✔️ 실시간 데이터 전송(SSE)
-SSE는 서버가 클라이언트로 실시간 데이터를 푸시하는 방식으로, 클라이언트와 서버는 지속적으로 연결된 상태를 유지하며, 새로운 메시지가 발생할 때만 전송하므로 데이터 전송 오버헤드와 서버 부하를 최소화
-
-✔️ 고성능 및 확장성
-Spring WebFlux의 리액티브 모델을 기반으로 많은 사용자들이 동시에 채팅에 참여할 수 있도록 확장 가능성 확보 및 고성능 메시징 서비스 제공
-</code></pre><br><br>
-        <h3> ⚙️ 쿼리 최적화로 커뮤니티 사용성 고려 </h3>
-<pre><code>
-✔️ 파일 데이터 관리
-파일 데이터는 ncp Object Storage에 PresignedURL 저장 방식으로 관리
-
-✔️ 테이블 튜닝
-용량이 큰 컨텐츠는 Vertical Partitioning하여 컬럼 분리하여 필요 시 선택적 쿼리하는 전략 사용
-Mysql Partition 구문 이용하여 text 길이 기준으로 Horizontal Partitioning 적용하여 효과적인 select 쿼리 가능
-
-✔️ 검색 쿼리 최적화
-MySQL Full-Text Search 와 ngram parser를 이용한 효율적인 검색어 쿼리 작성
-
-✔️ 페이징 쿼리 최적화
-QueryDSL, PageableExecutionUtil클래스 조합으로 fetch 쿼리, 집계 쿼리 분리를 통한 페이지네이션 성능 최적화
-
-✔️ 논클러스터드 인덱스 활용
-sorting 연산에 의한 쿼리 속도 저하를 개선하기 위해 created_at desc 인덱스 적용하여 내림차순 정렬 최적화
+        <code><pre>
+        ✔️ 비동기 및 반응형 처리
+        WebFlux의 Non-Blocking 특성을 이용해 SSE 방식으로 
+        실시간 채팅 메시지 응답을 Streaming하여 빠르게 안정적인 데이터 전송 구현 
+        &nbsp;
+        ✔️ 실시간 데이터 전송(SSE)
+        SSE는 서버가 클라이언트로 실시간 데이터를 푸시하는 방식으로,
+        클라이언트와 서버는 지속적으로 연결된 상태를 유지하며, 
+        새로운 메시지가 발생할 때만 전송하므로 데이터 전송 오버헤드와 서버 부하를 최소화
+        &nbsp;
+        ✔️ 고성능 및 확장성
+        Spring WebFlux의 리액티브 모델을 기반으로 많은 사용자들이 
+        동시에 채팅에 참여할 수 있도록 확장 가능성 확보 및 고성능 메시징 서비스 제공
         </code></pre>
+        <h3> ⚙️ 쿼리 최적화로 커뮤니티 사용성 고려 </h3>
+        <code><pre>
+        ✔️ 파일 데이터 관리
+        파일 데이터는 ncp Object Storage에 PresignedURL 저장 방식으로 관리
+        &nbsp;
+        ✔️ 테이블 튜닝
+        용량이 큰 컨텐츠는 Vertical Partitioning하여 컬럼 분리하여 필요 시 선택적 쿼리하는 전략 사용
+        Mysql Partition 구문 이용하여 text 길이 기준으로 Horizontal Partitioning 적용하여 효과적인 select 쿼리 가능
+        &nbsp;
+        ✔️ 검색 쿼리 최적화
+        MySQL Full-Text Search 와 ngram parser를 이용한 효율적인 검색어 쿼리 작성
+        &nbsp;
+        ✔️ 페이징 쿼리 최적화
+        QueryDSL, PageableExecutionUtil클래스 조합으로 fetch 쿼리, 집계 쿼리 분리를 통한 페이지네이션 성능 최적화
+        &nbsp;
+        ✔️ 논클러스터드 인덱스 활용
+        sorting 연산에 의한 쿼리 속도 저하를 개선하기 위해 created_at desc 인덱스 적용하여 내림차순 정렬 최적화
+        </code></pre>
+    </div>
 </div>
+
 
 <br>
 
