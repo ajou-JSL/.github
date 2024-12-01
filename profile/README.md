@@ -21,45 +21,30 @@
 <!-- ------------------------ 주요 기능 ------------------------ -->
 <div align="center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33; padding-bottom: 10px; margin-bottom: 20px;"> 🌳 주요 기능 </h2> 
-    <div style="max-width: 800px; text-align: left; line-height: 1.6; font-family: Arial, sans-serif;">
-        <div style="margin-bottom: 20px;">
-            <div style="text-align: center;"><strong>🌲커뮤니티</strong></div>
-            <div style="text-align: left;">
-                - 게시판 이용 및 팀 생성/구인<br>
-                - 실시간 인기 컨텐츠 조회<br>
-                - 사용자 필터링에 따른 컨텐츠 조회<br>
-                - 유저 간 실시간 채팅 소통<br>
-                - 불건전 컨텐츠 및 악성유저 신고 가능<br>
-            </div>
-        </div>
-        <br>
-        <div style="margin-bottom: 20px;">
-            <div style="text-align: center;"><strong>🌲프로필</strong></div>
-            <div style="text-align: left;">
-                - 개인/팀 프로필 관리<br>
-                - 활동 내역에 따른 프로필 티어(랭킹) 상승<br>
-                - 랭킹 별 조회<br>
-            </div>
-        </div>
-        <br>
-        <div style="margin-bottom: 20px;">
-            <div style="text-align: center;"><strong>🌲Moum</strong></div>
-            <div style="text-align: left;">
-                - 팀 생성, 연습시설 찾기 등 공연 라이프사이클 관리<br>
-                - 각 단계 별 프로세스 추적 및 관리<br>
-                - 사용자 필터링에 따른 공연장, 연습장 조회 및 모음 등록<br>
-            </div>
-        </div>
-        <br>
-        <div>
-            <div style="text-align: center;"><strong>🌲관리자</strong></div>
-            <div style="text-align: left;">
-                - 제휴업체의 공연장/연습장 시설 정보 등록 가능<br>
-                - 유저들의 이용 내역 관리 가능<br>
-                - 신고 내용에 대하여 관리자의 피드백 가능<br>
-            </div>
-        </div>
-    </div>
+
+```plaintext
+🌲커뮤니티🌲
+- 게시판 이용 및 팀 생성/구인
+- 실시간 인기 컨텐츠 조회
+- 사용자 필터링에 따른 컨텐츠 조회
+- 유저 간 실시간 채팅 소통
+- 불건전 컨텐츠 및 악성유저 신고 가능
+
+🌲프로필🌲
+- 개인/팀 프로필 관리
+- 활동 내역에 따른 프로필 티어(랭킹) 상승
+- 랭킹 별 조회
+
+🌲Moum🌲
+- 팀 생성, 연습시설 찾기 등 공연 라이프사이클 관리
+- 각 단계 별 프로세스 추적 및 관리
+- 사용자 필터링에 따른 공연장, 연습장 조회 및 모음 등록
+
+🌲관리자🌲
+- 제휴업체의 공연장/연습장 시설 정보 등록 가능
+- 유저들의 이용 내역 관리 가능
+- 신고 내용에 대하여 관리자의 피드백 가능
+```
 </div>
 
 <br>
