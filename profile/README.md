@@ -101,7 +101,7 @@
 
 <!-- ------------------------ 프로젝트 구조  ------------------------ -->
 <div align="center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏛️ 프로젝트 구조 </h2> <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏛️ 프로젝트 구조 </h2> 
     <div style="margin: 0 auto; text-align: center;" align="center"> 
         <h3> ⚙️ 멀티모듈 아키텍처 </h3>
         <img src="https://github.com/user-attachments/assets/9711c87f-f315-4abf-b9ff-d4324a682bdf" alt="멀티모듈 그림" style="width:70%;">
@@ -127,7 +127,7 @@
 
 <!-- ------------------------ 핵심 기술  ------------------------ -->
 <div align="center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ⭐ 핵심 기술 </h2> <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ⭐ 핵심 기술 </h2> 
     <div style="margin: 0 auto; text-align: left;"> 
         <h3> ⚙️ Spring WebFlux & SSE 기반 채팅 시스템 </h3>
         <img src="https://github.com/user-attachments/assets/873a0abf-25f2-4a21-9b18-b9fc367387eb" alt="멀티모듈 그림" style="width:70%;">
@@ -146,7 +146,7 @@
         동시에 채팅에 참여할 수 있도록 확장 가능성 확보 및 고성능 메시징 서비스 제공
         </code></pre>
         <h3> ⚙️ 쿼리 최적화로 커뮤니티 사용성 고려 </h3>
-        <code><pre>
+        <pre><code>
         ✔️ 파일 데이터 관리
         파일 데이터는 ncp Object Storage PresignedURL 저장 방식 관리
         &nbsp;
@@ -162,7 +162,7 @@
         &nbsp;
         ✔️ 논클러스터드 인덱스 활용
         sorting 연산에 의한 쿼리 속도 저하를 개선하기 위해 created_at desc 인덱스 적용하여 내림차순 정렬 최적화
-        </code></pre>
+        </pre></code>
     </div>
 </div>
 
