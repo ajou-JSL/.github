@@ -209,7 +209,7 @@
                     <td style="text-align:left">이승우</td>
                     <td style="text-align:left">Backend Developer</td>
                     <td style="text-align:left">swo98@ajou.ac.kr</td>
-                    <td style="text-align:left">Android UI/UX, Community Service</td>
+                    <td style="text-align:left">Backend Module, DevOps</td>
                 </tr>
                 <tr>
                     <td style="text-align:left">Member</td>
@@ -223,7 +223,7 @@
                     <td style="text-align:left">진선재</td>
                     <td style="text-align:left">Frontend Developer</td>
                     <td style="text-align:left">jsj714246@gmail.com</td>
-                    <td style="text-align:left">Backend Module, DevOps</td>
+                    <td style="text-align:left">Android UI/UX, Community Service</td>
                 </tr>
             </tbody>
         </table>
