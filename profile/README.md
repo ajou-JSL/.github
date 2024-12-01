@@ -131,7 +131,7 @@
     <div style="margin: 0 auto; text-align: left;"> 
         <h3> ⚙️ Spring WebFlux & SSE 기반 채팅 시스템 </h3>
         <img src="https://github.com/user-attachments/assets/873a0abf-25f2-4a21-9b18-b9fc367387eb" alt="멀티모듈 그림" style="width:70%;">
-        <code><pre>
+        <pre><code>
         ✔️ 비동기 및 반응형 처리
         WebFlux의 Non-Blocking 특성을 이용해 SSE 방식으로 
         실시간 채팅 메시지 응답을 Streaming하여 빠르게 안정적인 데이터 전송 구현 
@@ -162,7 +162,7 @@
         &nbsp;
         ✔️ 논클러스터드 인덱스 활용
         sorting 연산에 의한 쿼리 속도 저하를 개선하기 위해 created_at desc 인덱스 적용하여 내림차순 정렬 최적화
-        </pre></code>
+        </code></pre>
     </div>
 </div>
 
