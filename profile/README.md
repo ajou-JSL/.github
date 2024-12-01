@@ -20,10 +20,50 @@
 
 <!-- ------------------------ 주요 기능 ------------------------ -->
 <div align="center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🌳 주요 기능 </h2> <br> 
-    <div style="margin: 0 auto; text-align: center;" align="center"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33; padding-bottom: 10px; margin-bottom: 20px;"> 🌳 주요 기능 </h2> 
+    <div style="max-width: 800px; text-align: left; line-height: 1.6; font-family: Arial, sans-serif;">
+        <div style="margin-bottom: 20px;">
+            <div style="text-align: center;"><strong>🌲커뮤니티</strong></div>
+            <div style="text-align: left;">
+                - 게시판 이용 및 팀 생성/구인<br>
+                - 실시간 인기 컨텐츠 조회<br>
+                - 사용자 필터링에 따른 컨텐츠 조회<br>
+                - 유저 간 실시간 채팅 소통<br>
+                - 불건전 컨텐츠 및 악성유저 신고 가능<br>
+            </div>
+        </div>
+        <br>
+        <div style="margin-bottom: 20px;">
+            <div style="text-align: center;"><strong>🌲프로필</strong></div>
+            <div style="text-align: left;">
+                - 개인/팀 프로필 관리<br>
+                - 활동 내역에 따른 프로필 티어(랭킹) 상승<br>
+                - 랭킹 별 조회<br>
+            </div>
+        </div>
+        <br>
+        <div style="margin-bottom: 20px;">
+            <div style="text-align: center;"><strong>🌲Moum</strong></div>
+            <div style="text-align: left;">
+                - 팀 생성, 연습시설 찾기 등 공연 라이프사이클 관리<br>
+                - 각 단계 별 프로세스 추적 및 관리<br>
+                - 사용자 필터링에 따른 공연장, 연습장 조회 및 모음 등록<br>
+            </div>
+        </div>
+        <br>
+        <div>
+            <div style="text-align: center;"><strong>🌲관리자</strong></div>
+            <div style="text-align: left;">
+                - 제휴업체의 공연장/연습장 시설 정보 등록 가능<br>
+                - 유저들의 이용 내역 관리 가능<br>
+                - 신고 내용에 대하여 관리자의 피드백 가능<br>
+            </div>
+        </div>
     </div>
 </div>
+
+<br>
+
 
 <!-- ------------------------ 스택 및 도구 ------------------------ -->
 <div align="center">
@@ -110,7 +150,6 @@
         <h3> ⚙️ Spring WebFlux & SSE 기반 채팅 시스템 </h3>
         <img src="https://github.com/user-attachments/assets/873a0abf-25f2-4a21-9b18-b9fc367387eb" alt="멀티모듈 그림" style="width:70%;">
         <br>
-        Spring WebFlux와 SSE(Server-Sent Events)를 활용한 채팅 시스템으로 실시간 고성능 메시징 서비스를 제공합니다.<br><br>
         <span style="font-size: 12px;"><strong>✔️ 비동기 및 반응형 처리</strong><br>
         WebFlux의 Non-Blocking 특성을 이용해 SSE 방식으로 실시간 채팅 메시지 응답을 Streaming하여 빠르게 안정적인 데이터 전송 구현<br><br>
         <span style="font-size: 12px;"><strong>✔️ 실시간 데이터 전송(SSE)</strong><br>
@@ -120,7 +159,6 @@
         <br>
         <h3> ⚙️ 쿼리 최적화로 커뮤니티 사용성 고려 </h3>
         <br>
-        커뮤니티 서비스 특성 상 게시글 및 프로필 등의 데이터가 계속해서 쌓일 것을 고려하여 쿼리 성능에 신경써주었습니다.<br><br>
         <span style="font-size: 12px;"><strong>✔️ 파일 데이터 관리</strong><br>
         파일 데이터는 ncp Object Storage에 PresignedURL 저장 방식으로 관리<br><br>
         <span style="font-size: 12px;"><strong>✔️ 테이블 튜닝 </strong><br>
