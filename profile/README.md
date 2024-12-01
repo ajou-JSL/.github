@@ -149,13 +149,13 @@
         동시에 채팅에 참여할 수 있도록 확장 가능성 확보 및 고성능 메시징 서비스 제공
         </code></pre>
         <h3> ⚙️ 쿼리 최적화로 커뮤니티 사용성 고려 </h3>
-        <code><pre>
+<code><pre>
         ✔️ 파일 데이터 관리
-        파일 데이터는 ncp Object Storage에 PresignedURL 저장 방식으로 관리
+        파일 데이터는 ncp Object Storage PresignedURL 저장 방식 관리
         &nbsp;
         ✔️ 테이블 튜닝
-        용량이 큰 컨텐츠는 Vertical Partitioning하여 컬럼 분리하여 필요 시 선택적 쿼리하는 전략 사용
-        Mysql Partition 구문 이용하여 text 길이 기준으로 Horizontal Partitioning 적용하여 효과적인 select 쿼리 가능
+        용량이 큰 컨텐츠는 Vertical Partitioning 하여 선택적 쿼리하는 전략 사용
+        Mysql Partition 구문 이용하여 text 길이 기준 Horizontal Partitioning 적용
         &nbsp;
         ✔️ 검색 쿼리 최적화
         MySQL Full-Text Search 와 ngram parser를 이용한 효율적인 검색어 쿼리 작성
