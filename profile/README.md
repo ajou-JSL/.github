@@ -51,7 +51,7 @@
 <div align="center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🔨 스택 및 도구  </h2>  
     <div style="margin: 0 auto; text-align: center;" align="center"> 
-        <h4> 🍀 Andriod & Web Admin </h4>
+        <h4> 🍀 Android & Web Admin </h4>
         <div>
             <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white">
             <img src="https://img.shields.io/badge/Android Jetpack-4285F4?style=flat&logo=jetpackcompose&logoColor=white">
